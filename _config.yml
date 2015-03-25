@@ -30,6 +30,7 @@ social:
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
+    target: '_blank'
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
