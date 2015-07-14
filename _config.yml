@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 gems:
   - jemoji
-  
+
 # Site settings
 title: "Jaja Jr. jr. Records"
 description: > # this means to ignore newlines until "email:"
@@ -41,7 +41,7 @@ social:
    share_title: ?t=
    share_link: "&amp;u="
 
-  - icon:	github
+#  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
 #    share_url:
