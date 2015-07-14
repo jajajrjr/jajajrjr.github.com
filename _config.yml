@@ -35,11 +35,11 @@ social:
     target: '_blank'
 
   - icon:	facebook
-   url:	https://www.facebook.com/pages/Jaja-Jr-jr-Records/1618117338461013
-   desc: Connect with me facebook
-   share_url: https://www.facebook.com/sharer.php
-   share_title: ?t=
-   share_link: "&amp;u="
+   	url:	https://www.facebook.com/pages/Jaja-Jr-jr-Records/1618117338461013
+   	desc: Connect with me facebook
+   	share_url: https://www.facebook.com/sharer.php
+   	share_title: ?t=
+   	share_link: "&amp;u="
 
 #  - icon:	github
 #    url:	https://github.com/dirkfabisch
