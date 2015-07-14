@@ -32,14 +32,14 @@ social:
     share_link: "&amp;url="
     target: '_blank'
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+ - icon:	facebook
+   url:	https://www.facebook.com/pages/Jaja-Jr-jr-Records
+   desc: Connect with me facebook
+   share_url: https://www.facebook.com/sharer.php
+   share_title: ?t=
+   share_link: "&amp;u="
 
-  - icon:	github
+#  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
 #    share_url:
