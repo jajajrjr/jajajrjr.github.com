@@ -7,15 +7,5 @@ tags:
 <!--image: /assets/article_images/desktop.jpg-->
 ---
 
-Test
+While Jaja Jr. jr. was created a while back, we've yet to hard-launch the label and/or the website. 
 
-test
-
-test
-
-
-test
-* list
-* list
-* list
-* asdfds
