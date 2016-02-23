@@ -7,7 +7,10 @@ tags:
 <!--image: /assets/article_images/desktop.jpg-->
 ---
 
-**Jaja Jr. jr. Records** band, the [Mean Jean Oaks][mjo], 
+From the **Jaja Jr. jr. Records** roster, the [Mean Jean Oaks][mjo], just sent out the final recording sessions to be mixed. We look forward to sharing the album sometime in Spring of 2016. 
+
+![image](https://raw.githubusercontent.com/jajajrjr/jajajrjr.github.com/master/assets/images/album-logic.png)
+
 
 [fia]: http://fridayinamerica.com
 [mjo]: http://themeanjeanoaks.com
