@@ -7,7 +7,7 @@ tags:
 <!--image: /assets/article_images/desktop.jpg-->
 ---
 
-From the **Jaja Jr. jr. Records** roster, the [Mean Jean Oaks](http://fridayinamerica.com), just sent out the final recording sessions to be mixed. We look forward to sharing the album sometime in Spring of 2016. 
+From the **Jaja Jr. jr. Records** roster, the [Mean Jean Oaks](http://meanjeanoaks.github.io/), just sent out the final recording sessions to be mixed. We look forward to sharing the album sometime in Spring of 2016. 
 
 ![image](https://raw.githubusercontent.com/jajajrjr/jajajrjr.github.com/master/assets/images/album-logic.png)
 
