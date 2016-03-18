@@ -11,7 +11,8 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g3AMQCf4lj4" frameborder="0" allowfullscreen></iframe>
 
-
+</br>
+</br>
 For those who are interested in learning more about Dave Harrington's rig and techniques check out **Matt Sweeney's** Guitar Power ep. 2 featuring Dave Harrington. 
 
 
