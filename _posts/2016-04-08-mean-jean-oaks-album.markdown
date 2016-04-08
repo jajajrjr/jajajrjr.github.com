@@ -7,7 +7,7 @@ tags:
 <!--image: /assets/article_images/desktop.jpg-->
 ---
 
-It's been a while in the making, but the [Mean Jean Oaks](http"//themeanjeanoaks.com) have their debut album all set to be released. **Preview the album embedded in Bandcamp below** and be ready as it'll be released on *Spotify, iTunes and many other digital distribution outlets*. 
+It's been a while in the making, but the [Mean Jean Oaks](http://themeanjeanoaks.com) have their debut album all set to be released. **Preview the album embedded in Bandcamp below** and be ready as it'll be released on *Spotify, iTunes and many other digital distribution outlets*. 
 
 <iframe style="border: 0; width: 100%; height: 925px;" src="https://bandcamp.com/EmbeddedPlayer/album=1700658943/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://meanjeanoaks.bandcamp.com/album/mean-jean-oaks">Mean Jean Oaks by Mean Jean Oaks</a></iframe>
 
