@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PilotSuits. release new single Bowery"
-date:   2016-04-12 09:00:25
+date:   2016-05-12 09:00:25
 categories: 
 tags: 
 <!--image: /assets/article_images/desktop.jpg-->
@@ -15,7 +15,7 @@ tags:
 </br>
 </br>
 
-<p>The first single - “Bowery” - from the forthcoming full-length PilotSuits album is available TODAY. Keep an eye out for more new music throughout the summer with the album arriving Fall 2016. Thanks for listening and please feel free to share the music as well as any feedback. </p>
+<p>The first single - “Bowery” - from the forthcoming full-length PilotSuits album is available 05/13/2016. Keep an eye out for more new music throughout the summer with the album arriving Fall 2016. Thanks for listening and please feel free to share the music as well as any feedback. </p>
 </center>
 
 <p>Release date: May 13, 2016 </br>
