@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New PilotSuits. single Bowery!"
+title:  "PilotSuits. release new single Bowery"
 date:   2016-04-12 09:00:25
 categories: 
 tags: 
