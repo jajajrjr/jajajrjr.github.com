@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "New PilotSuits. single Bowery!"
+date:   2016-04-12 09:00:25
+categories: 
+tags: 
+<!--image: /assets/article_images/desktop.jpg-->
+---
+
+<center>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3993829814/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://pilotsuits.bandcamp.com/track/bowery">Bowery by PilotSuits.</a></iframe>
+
+
+</br>
+
+The first single - “Bowery” - from the forthcoming full-length PilotSuits album is available TODAY. Keep an eye out for more new music throughout the summer with the album arriving Fall 2016. Thanks for listening and please feel free to share the music as well as any feedback. 
+</center>
+
+<p>Release date: May 13, 2016</br>
+Written, Engineered and Produced by PilotSuits.</br>
+Additional samples, effects and re-mixing: Brendan Simms</br>
+Mixing: Brendan Simms</br>
+Art: Matt Carbone @mattjcarbone</br></p>
+
+
