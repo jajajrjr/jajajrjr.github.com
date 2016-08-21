@@ -4,7 +4,7 @@ title:  "Bill Frisell at Evening at Elvis"
 date:   2016-06-10 09:00:25
 categories: 
 tags: 
-image: /img/frisell.jpg
+<!--image: /img/frisell.jpg-->
 ---
 
 I stumbled upon a really great video of Bill Frisell playing at Elvis's home.  
