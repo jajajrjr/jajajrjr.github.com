@@ -12,10 +12,6 @@ tags:
 </center>
 <center>
 
-</br>
-</br>
-</br>
-</br>
 
 <p>The first single - “Bowery” - from the forthcoming full-length PilotSuits album is available 05/13/2016. Keep an eye out for more new music throughout the summer with the album arriving Fall 2016. Thanks for listening and please feel free to share the music as well as any feedback. </p>
 </center>
