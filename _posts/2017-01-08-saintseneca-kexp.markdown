@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Saintseneca - Full Performance (Live on KEXP)"
-date:   2016-01-08 09:00:25
+date:   2017-01-08 09:00:25
 categories: 
 tags: 
-
+<!--image: /img/frisell.jpg-->
 ---
 
 Here's a great video of [Saintseneca](http://www.saintseneca.com/) at [KEXP](http://kexp.org/).
