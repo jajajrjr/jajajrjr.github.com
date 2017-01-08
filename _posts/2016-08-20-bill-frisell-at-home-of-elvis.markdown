@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bill Frisell at Evening at Elvis"
-date:   2016-06-10 09:00:25
+date:   2016-08-20 09:00:25
 categories: 
 tags: 
 <!--image: /img/frisell.jpg-->
